@@ -1,0 +1,2 @@
+Python es genial. Este programa cuenta cuántas veces aparece cada palabra en un texto.
+Python es fácil de aprender.
